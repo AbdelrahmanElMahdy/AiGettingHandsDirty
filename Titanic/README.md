@@ -1,0 +1,1 @@
+this a kaggle getting started compitions 
